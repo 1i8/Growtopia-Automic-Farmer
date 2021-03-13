@@ -1,3 +1,6 @@
 # Automic-Source
 
 Automic Android apk decompiled
+
+THIS SHIT APK MADE BY DEERUX AND PLAYINGO
+THEY STEALS YOUR ACCOUNT DETAILS BE CAREFUL
