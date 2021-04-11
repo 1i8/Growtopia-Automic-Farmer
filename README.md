@@ -1,4 +1,7 @@
 # Not yet cleaned Automic
+
+ProB1: this source not Cleaned so you guys need wait ( if you say i can fix just download it :)
+
 Automic is an Android Internal made for the Game [Growtopia](https://www.growtopiagame.com/). Autofarming in this Game can be very lucrative which why this one in particuliar got some hype, next to Exafarm and a few private Bots. I wanted to pay playingo for a clean build (PC Version) before his first Android leak. But in 2021 it's so hard to contact someone over the Internet. Also, I don't think he ever wanted to make money with it.
 
 The original project was made by [iProgramInCpp](https://github.com/iProgramMC) & [Playingo](https://github.com/playingoDEERUX). Which of course turned out to be an Account Stealer for relaunching Growalts. Keep that in mind and don't praise them for that.
